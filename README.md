@@ -1,4 +1,4 @@
-# electronicaDePapel
+# Electrónica de Papel
 Contenidos del taller "Electrónica de Papel"
 Primera Edición: Festival Canal Connect (Madrid - Marzo 2021)
 Este taller es posible gracias a las enseñanzas y práctica artística de Claudia González Godoy
